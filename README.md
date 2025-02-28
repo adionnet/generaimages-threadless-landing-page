@@ -1,2 +1,1 @@
-# generaimages-threadless-landing-page
-Generaimages Threadless landing page
+The landing page for https://generaimages.threadless.com/about on Pinterest.
